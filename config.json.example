@@ -1,0 +1,9 @@
+{
+	"username" : "Your osu! username",
+	"password" : "Your osu! IRC password (IT IS DIFFERENT FROM YOUR ACCOUNT PASSWORD. YOU CAN GET YOUR IRC PASSWORD HERE : https://osu.ppy.sh/p/irc)",
+	"twitterconsumerkey" : "Your BOT's api consumer key",
+	"twitterconsumersecret" : "Your BOT's api consumer secret",
+	"twitteraccesstoken" : "Your BOT's api access token",
+	"twitteraccesstokensecret" : "Your BOT's api access token secret",
+	"twittertargetid": "Your OWN ACCOUNT's TwitterID (You can get it here : http://gettwitterid.com/)"
+}
